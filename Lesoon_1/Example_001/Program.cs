@@ -1,3 +1,5 @@
-﻿// Привет Мирвщ
-Console.WriteLine("Hello, World!");
+﻿// Привет User
+string username = Console.ReadLine();
+Console.WriteLine("Привет");
+Console.WriteLine(username);
 
