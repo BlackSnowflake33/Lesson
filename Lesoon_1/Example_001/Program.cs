@@ -1,5 +1,5 @@
-﻿// Привет User
-string username = Console.ReadLine();
-Console.WriteLine("Привет");
-Console.WriteLine(username);
+﻿// Привет Word
+
+Console.WriteLine("Hollo Word");
+
 
